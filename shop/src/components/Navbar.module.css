@@ -1,0 +1,20 @@
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.4rem;
+  font-weight: 800;
+  color: #4f46e5;
+}
+.link {
+  padding: 0.4rem 0.8rem;
+  border-radius: 8px;
+  transition: background 0.2s;
+}
+.link:hover {
+  background: rgba(79, 70, 229, 0.1);
+}
+.active {
+  font-weight: 700;
+  color: #4f46e5;
+}
