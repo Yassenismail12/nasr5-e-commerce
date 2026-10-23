@@ -16,7 +16,7 @@ export default function Navbar() {
       <div className="flex-1">
         <Link to="/" className={styles.logo}>
           <Store size={26} />
-          <span>ShopEasy</span>
+          <span>ShopE</span>
         </Link>
       </div>
       <nav aria-label="Main navigation" className="flex items-center gap-1 sm:gap-2">
